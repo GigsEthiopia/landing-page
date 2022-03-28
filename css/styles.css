@@ -11,12 +11,12 @@ body {
 
 @font-face {
     font-family: 'Sofia-Pro-Bold';
-    src: url('/Users/blenassefa/Documents/Gigs/landing-page/fonts/Sofia-Pro-Bold.ttf');
+    src: url('../fonts/Sofia-Pro-Bold.ttf');
 }
 
 @font-face {
     font-family: 'Sofia-Pro-Regular';
-    src: url('/Users/blenassefa/Documents/Gigs/landing-page/fonts/Sofia-Pro-Regular.ttf');
+    src: url('../fonts/Sofia-Pro-Regular.ttf');
 }
 
 body {
