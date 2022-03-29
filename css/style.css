@@ -92,6 +92,12 @@ button {
 /* ==== LOGO ==== */
 
 .logo h2 {
+    font-family: "Poppins", sans-serif;
+    color: var(--primary-color);
+}
+
+.logo {
+    height: 70px;
     font-size: 28px;
     font-family: "Poppins", sans-serif;
     color: var(--primary-color);
@@ -326,6 +332,9 @@ button {
 @media screen and (max-width: 768px) {
     .logo h2 {
         font-size: 23px;
+    }
+    .logo {
+        height: 70px;
     }
     .nav_menu {
         position: fixed;
